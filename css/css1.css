@@ -1,0 +1,25 @@
+/* ------TODO---------
+*{
+    margin: 0%;
+    padding: 0%;
+    border: 1px solid salmon;
+} */
+
+/* ----SELECTOR DE TIPO----
+main {
+    background-color: rgba(0, 255, 255, 0.543);
+} */
+
+/* -----SELECTOR ID----
+#pie {
+    background-color: blueviolet;
+} */
+
+/* #encabezado {
+    background-color: indigo;
+} */
+
+#pie,#encabezado,aside {
+    background-color: rgba(76, 0, 130, 0.475);
+}
+
